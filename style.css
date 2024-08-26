@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar-inner {
@@ -125,3 +126,7 @@ h4 {
     color: orange;
     font-weight: 600;
 }
+.insta{
+    padding: 60px;
+}
+
